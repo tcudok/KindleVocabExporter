@@ -1,7 +1,7 @@
 KindleVocabExporter
 ===================
 
-Simple CLI tool writen in Python allowing to export words gathered by the vocabulary builder on a Kindle device.
+Simple CLI tool written in Python allowing to export words gathered by the vocabulary builder on a Kindle device.
 
 
 How to use
